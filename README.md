@@ -12,21 +12,30 @@ Turn your daily habits into an RPG-style progression system. Complete quests, ea
 
 
 <p align="center">
-  <img src="assets/preview1.png" alt="Habit-Leveling dashboard" width="100%" />
+  <img src="assests/Starting Page.png" alt="Starter Page" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/preview 2.png" alt="Quest management" width="49%" />
-  <img src="assets/priview 3.png" alt="Character progression" width="49%" />
+  <img src="assets/Dashboard.png" alt="Habit-Leveling Dashboard" width="49%" />
+  <img src="assets/Quests.png" alt="Quests (or) Habits" width="49%" />
 </p>
 
 <p align="center">
-  <img src="assets/raids.png" alt="Boss raids" width="49%" />
-  <img src="assets/focus.png" alt="Focus timer" width="49%" />
+  <img src="assets/Raids.png" alt="Boss raids" width="49%" />
+  <img src="assets/Focus.png" alt="Focus timer" width="49%" />
 </p>
 
 <p align="center">
-  <img src="assets/analytics.png" alt="Progress analytics" width="49%" />
+  <img src="assets/Analytics 1.png" alt="Progress analytics 1" width="49%" />
+  <img src="assets/Analytics 2.png" alt="Progress analytics 2" width="49%" />
+</p>
+
+<p align="center">
+  <img src="assests/Shop.png" alt="Shop" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assests/Settings.png" alt="Settings Page" width="100%" />
 </p>
 
 ---
