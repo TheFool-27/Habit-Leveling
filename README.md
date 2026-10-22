@@ -16,18 +16,18 @@ Turn your daily habits into an RPG-style progression system. Complete quests, ea
 </p>
 
 <p align="center">
-  <img src="assets/Dashboard.png" alt="Habit-Leveling Dashboard" width="49%" />
-  <img src="assets/Quests.png" alt="Quests (or) Habits" width="49%" />
+  <img src="assests/Dashboard.png" alt="Habit-Leveling Dashboard" width="49%" />
+  <img src="assests/Quests.png" alt="Quests (or) Habits" width="49%" />
 </p>
 
 <p align="center">
-  <img src="assets/Raids.png" alt="Boss raids" width="49%" />
-  <img src="assets/Focus.png" alt="Focus timer" width="49%" />
+  <img src="assests/Raids.png" alt="Boss raids" width="49%" />
+  <img src="assests/Focus.png" alt="Focus timer" width="49%" />
 </p>
 
 <p align="center">
-  <img src="assets/Analytics 1.png" alt="Progress analytics 1" width="49%" />
-  <img src="assets/Analytics 2.png" alt="Progress analytics 2" width="49%" />
+  <img src="assests/Analytics 1.png" alt="Progress analytics 1" width="49%" />
+  <img src="assests/Analytics 2.png" alt="Progress analytics 2" width="49%" />
 </p>
 
 <p align="center">
